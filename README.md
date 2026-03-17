@@ -1,2 +1,4 @@
 # -fita-ml-course
-ML kursa materiāli un mājas darbi
+Šis repozitorijs satur manus mājas darbus 
+kursam "Machine Learning un prognozēšanas modeļi". 
+## Struktūra - `week1/` — 1. nedēļas darbs (ievads ML)
